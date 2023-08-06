@@ -1,7 +1,7 @@
 # CrappyFlappy
 
 
-⚠️ Yet another bad flappy bird remake (**Very old**) 
+⚠️ Yet another bad flappy bird remake (**Very old, archive only**) 
 
 ❗ Made with no libs in Java (Swing based)
 
